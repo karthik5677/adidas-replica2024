@@ -294,7 +294,7 @@ form{border:1px solid rgb(255, 255, 255);height:500px;width: 500px;margin-top:14
 .shopnow{color: #ffffff;margin: 380px 0px 0px 70px;position: absolute;font-size:38px;font-weight:700;}
 .shopnow:hover{color: #ffffff;margin: 380px 0px 0px 60px;position: absolute;font-size:40px;font-weight:700;letter-spacing:2px;transition:600ms;cursor: pointer;}
 .shopnowsubheading{color: #ffffff;margin: 440px 0px 0px 70px;position: absolute;font-size:16px;font-weight:400}
-.home32{background-color: rgb(255, 255, 255);}
+.home32{background-color: rgb(255, 255, 255);scroll-behavior: smooth;}
 
 .footeraboverarea-a{font-size:34px;font-weight:700;margin:90px 0px 0px 510px}
 .footeraboverarea-b{font-size:14px;font-weight:500;margin:40px 0px 0px 260px;height:auto;border: 1px solid rgb(255, 255, 255);width:1000px;}
